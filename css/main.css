@@ -112,27 +112,38 @@ img {
   border-bottom: 1px solid #EAEAEA;
   font-family: sans-serif;
 
+
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
   {% endif %}
 }
 
-.navbar-custom .nav li a {
-  font-size: 18px;
-  letter-spacing: 1px;
-}
+
 
 .navbar-custom .navbar-brand {
+height:60px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   letter-spacing: 1px;
   padding-left:5em;
   padding-right:5em;
   font-weight: 700;
   color: {{ site.navbar-text-col }};
 }
+.navbar-custom .nav {
+    padding-right:5em;
+}
+
 .navbar-custom .nav li a {
+  height:60px;
+  font-size: 18px;
+  letter-spacing: 1px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   font-weight: 300;
-  padding-right:5em;
   color: {{ site.navbar-text-col }};
 }
 
@@ -145,6 +156,7 @@ img {
 
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
+
   /***
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
@@ -152,7 +164,6 @@ img {
   ***/
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 50px;
   /***
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
@@ -163,12 +174,12 @@ img {
   padding-top: 5px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 40px;
+  height: 60px;
 }
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 00px 0;
     /***
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
