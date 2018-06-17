@@ -71,8 +71,8 @@ author:
 social-network-links:
 #  rss: false
   email: "elia.bruni@gmail.com"
-  facebook: https://www.facebook.com/elia.bruni
-  github: https://github.com/eliabruni
+  facebook: elia.bruni
+  github: eliabruni
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
