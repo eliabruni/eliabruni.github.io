@@ -361,12 +361,14 @@ footer .theme-by {
 }
 
 .post-preview a {
+  background-color:transparent;
   text-decoration: none;
   color: #404040;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
+  background-color:transparent;
   text-decoration: none;
   color: {{ site.hover-col }};
 }
@@ -434,6 +436,7 @@ footer .theme-by {
 .blog-tags a {
   color: {{ site.link-col }};
   text-decoration: none;
+  background-color:transparent;
   padding: 0px 5px;
 }
 
