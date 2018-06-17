@@ -8,85 +8,80 @@ title: ""
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
 ### 2018
-D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski, and, E. Bruni. Learning compositionally 
-through attentive guidance. Arxiv.
+D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski, and, E. Bruni. [Learning compositionally 
+through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). Arxiv.
 
-R. Shekkar, T. Baumgartner, A. Venkatesh, E. Bruni, R. Bernardi, and R. Fernandez. Ask No More: Deciding when 
-to guess in referential visual dialogue. COLING 2018
+R. Shekkar, T. Baumgartner, A. Venkatesh, E. Bruni, R. Bernardi, and R. Fernandez. [Ask No More: Deciding when 
+to guess in referential visual dialogue](https://arxiv.org/pdf/1805.06960.pdf). COLING 2018
 
 ### 2017
-E. Bruni and R. Fernandez. Adversarial evaluation for open-domain 
-dialogue generation. Proceedings of SIGdial 2017.
+E. Bruni and R. Fernandez. [Adversarial evaluation for open-domain 
+dialogue generation](http://www.aclweb.org/anthology/W17-5534). Proceedings of SIGdial 2017.
 
-Korsuk Sirinukunwattana et al. Diagnostic assessment of deep learning algorithms for detection of 
-lymph node metastases in women with breast cancer. Jama 318.22 (2017): 2199-2210.
+Korsuk Sirinukunwattana et al. [Diagnostic assessment of deep learning algorithms for detection of 
+lymph node metastases in women with breast cancer](https://jamanetwork.com/journals/jama/fullarticle/2665774). Jama 318.22 (2017): 2199-2210.
 
-Korsuk Sirinukunwattana et al. Gland Segmentation in Colon Histology Images: The GlaS Challenge Contest. 
+Korsuk Sirinukunwattana et al. [Gland Segmentation in Colon Histology Images: The GlaS Challenge Contest](https://arxiv.org/pdf/1603.00275.pdf). 
 Medical Image Analysis, 2016
 
 ### 2015
 A.J. Anderson, E. Bruni, A. Lopopolo, M. Poesio and M. Baroni. 
-Reading visually embodied meaning from the brain: visually grounded computational 
-models decode visual-object mental imagery induced by written text. Neuroimage 2015
+[Reading visually embodied meaning from the brain: visually grounded computational 
+models decode visual-object mental imagery induced by written text](https://www.sciencedirect.com/science/article/pii/S1053811915006345). Neuroimage 2015
 
 A. Sartori, V. Yanulevskaya, A. A. Salah, J. Uijlings, E. Bruni and N. Sebe. 
-Affective Analysis of Professional and Amateurs Abstract Paintings 
-Using Statistical Analysis and Art Theory. In ACM transactions on 
+[Affective Analysis of Professional and Amateurs Abstract Paintings 
+Using Statistical Analysis and Art Theory](http://www.huppelen.nl/publications/2015SartoriAffectiveAnalysisOfArtworks.pdf). In ACM transactions on 
 Interactive Intelligent Systems, 2015
 
 
 ### 2014
-
-Automatic Personality and Interaction Style Recognition from Facebook Profile Pictures.
-F. Celli, E. Bruni and B. Lepri
+F. Celli, E. Bruni and B. Lepri.
+[Automatic Personality and Interaction Style Recognition from Facebook Profile Pictures](http://clic.cimec.unitn.it/fabio/2014celli-al@acmmm.pdf).
 Proceedings of the ACM Multimedia 2014 
 
-Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world
-A. Lazaridou, E. Bruni and M. Baroni
+A. Lazaridou, E. Bruni and M. Baroni.
+[Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](http://www.aclweb.org/anthology/P14-1132).
 Proceedings of the ACL 2014 
 
-E. Bruni, N. K. Tran and M. Baroni. Multimodal Distributional Semantics. 
+E. Bruni, N. K. Tran and M. Baroni. [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857). 
 Journal of Artificial Intelligence 
-Research 49: 1-47 2014. IJCAI-JAIR Best Paper Prize
+Research 49: 1-47 2014. **IJCAI-JAIR Best Paper Prize**.
 
 ### 2013
 
-Of words, eyes and brains: Correlating image-based distributional semantic models with neural representations of concepts
-A. J. Anderson, E. Bruni, U. Bordignon, M. Poesio and M. Baroni
+A. J. Anderson, E. Bruni, U. Bordignon, M. Poesio and M. Baroni.
+[Of words, eyes and brains: Correlating image-based distributional semantic models with neural representations of concepts](https://pdfs.semanticscholar.org/55c5/9814e5d5a1da7d399358412a9a0ca7a7ecc4.pdf).
 Proceedings of the EMNLP 2013
 
-VSEM: An open library for visual semantics representation
-E. Bruni, U. Bordignon, A. Liska, J. Uijlings and I. Sergienya
+E. Bruni, U. Bordignon, A. Liska, J. Uijlings and I. Sergienya.
+[VSEM: An open library for visual semantics representation](https://pdfs.semanticscholar.org/9434/524669777d281a8a7358f20181c9e157942e.pdf).
 Proceedings of the ACL 2013 (System demonstration)
 
 ### 2012
-
-Distributional Semantics with Eyes: Using Image Analysis to Improve Computational Representations of Word Meaning
-E. Bruni, J. Uijlings, M. Baroni and N. Sebe
-Proceedings of the ACM Multimedia 2012
-In the eye of the beholder: Employing statistical analysis and eye tracking for analyzing abstract paintings
-(Dataset)
-
-V. Yanulevskaya, J. Uijlings, E. Bruni, A. Sartori, F. Bacci, N. Sebe, E. Zamboni and D. Melcher
+Bruni, J. Uijlings, M. Baroni and N. Sebe
+[Distributional Semantics with Eyes: Using Image Analysis to Improve Computational Representations of Word Meaning](http://www.huppelen.nl/publications/bruniSemanticsWithEyesACMMM12.pdf).
 Proceedings of the ACM Multimedia 2012
 
-Automatic Analysis of Emotions Conveyed by Abstract Painting
-V. Yanulevskaya, E. Bruni, J. Uijlings, A. Sartori, E. Zamboni, F. Bacci, D. Melcher and N. Sebe
-Visual Science of Art Conference (VSAC). 2012
-Distributional Semantics in Technicolor
+V. Yanulevskaya, J. Uijlings, E. Bruni, A. Sartori, F. Bacci, N. Sebe, E. Zamboni and D. Melcher.
+[In the eye of the beholder: Employing statistical analysis and eye tracking for analyzing abstract paintings](http://eliabruni.github.io/publications/yanulevskaya-etal-acm-2012.pdf)
+([Dataset](https://staff.fnwi.uva.nl/e.bruni/mart/dlform.html)). V. Yanulevskaya, J. Uijlings, E. Bruni, A. Sartori, F. Bacci, N. Sebe, E. Zamboni and D. Melcher
+Proceedings of the ACM Multimedia 2012
 
-E. Bruni, G. Boleda, M. Baroni and N. K. Tran
+
+E. Bruni, G. Boleda, M. Baroni and N. K. Tran.
+[Distributional Semantics in Technicolor](http://www.aclweb.org/anthology/P12-1015).
 Proceedings of the ACL 2012 (50th Annual Meeting of the Association for Computational Linguistics), East Stroudsburg PA: ACL.
-Automatic Analysis of Multimodal Requirements: A Research Preview
-E. Bruni, A. Ferrari, N. Seyff and G. Tolomei
+
+E. Bruni, A. Ferrari, N. Seyff and G. Tolomei.
+[Automatic Analysis of Multimodal Requirements: A Research Preview](https://link.springer.com/chapter/10.1007/978-3-642-28714-5_19).
 REFSQ'12
 
 ### 2011
-
-Distributional semantics from text and images
-E. Bruni, G.B. Tran and M. Baroni
+E. Bruni, G.B. Tran and M. Baroni.
+[Distributional semantics from text and images](https://pdfs.semanticscholar.org/1003/bccaddda851c19a1127b23691e17bc6a334b.pdf).
 Proceedings of the EMNLP 2011 Geometrical Models for Natural Language Semantics (GEMS) 
 
 ### PhD Thesis
 
-Multimodal distributional semantics Elia Bruni.  2013. PhD Thesis, University of Trento.
+Elia Bruni. [Multimodal distributional semantics](http://eliabruni.github.io/publications/bruni2013thesis.pdf). 2013. PhD Thesis, University of Trento.

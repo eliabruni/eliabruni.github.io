@@ -135,7 +135,7 @@ height:60px;
   justify-content: center;
   flex-direction: column;
   letter-spacing: 1px;
-  padding-left:5em;
+  padding-left:6em;
   padding-right:5em;
   font-weight: 700;
   color: {{ site.navbar-text-col }};
