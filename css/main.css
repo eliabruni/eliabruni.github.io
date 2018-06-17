@@ -135,13 +135,13 @@ height:60px;
   justify-content: center;
   flex-direction: column;
   letter-spacing: 1px;
-  padding-left:8.6em;
+  padding-left:5em;
   padding-right:5em;
   font-weight: 700;
   color: {{ site.navbar-text-col }};
 }
 .navbar-custom .nav {
-    padding-right:8.6em;
+    padding-right:5em;
 }
 
 .navbar-custom .nav li a {
@@ -818,9 +818,9 @@ td.gutter {
 /* This controls the body of all pages */
 
 .container {
-width:120%;
-margin-left:-10%;
-margin-right:-10%;
+width:100%;
+margin-left:0%;
+margin-right:0%;
 }
 
 .title {
