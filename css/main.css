@@ -28,11 +28,14 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: {{ site.link-col }};
+  color: {{ site.text-col }};
+  background-color: rgba(97,218,251,0.2);
+  text-decoration: underline;
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col }};
+  background-color: {{ site.hover-col }};
+  text-decoration: underline;
 }
 blockquote {
   color: #808080;
@@ -106,6 +109,11 @@ img {
 }
 
 /* --- Navbar --- */
+
+.navbar-custom a {
+    background-color:transparent;
+    text-decoration: none;
+}
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
@@ -304,6 +312,8 @@ footer p.text-muted {
 
 footer a {
   color: {{site.footer-link-col}};
+  background-color:transparent;
+  text-decoration: None;
 }
 
 footer .list-inline {
