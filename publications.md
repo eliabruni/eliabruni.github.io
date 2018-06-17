@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Publications
+title: ""
 ---
+
+# Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
