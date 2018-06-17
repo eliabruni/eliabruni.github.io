@@ -49,14 +49,14 @@ navbar-links:
 #8dc891
 #FAC863
 
-navbar-col: "#282c34"
+navbar-col: "#20232a"
 navbar-text-col: "#ffffff"
 navbar-children-col: "#F5F5F5"
 page-col: "#ffffff"
 text-col: "#282C34"
 link-col: "#008AFF"
 hover-col: "#61dafb"
-footer-col: "#282c34"
+footer-col: "#20232a"
 footer-text-col: "#ffffff"
 footer-link-col: "#404040"
 
