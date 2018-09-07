@@ -8,6 +8,8 @@ title: ""
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
 ### 2018
+G. Bani, T. Baumgärtner, A. Venkatesh, D. Belli, G. Dagan, A. Geenen, a. Skliar, E. Bruni, R. Fernández. [Adding Object Detection Skills to Visual Dialogue Agents](). ECCV 2018. Workshop on Shortcomings in Vision and Language.
+
 D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski, and, E. Bruni. [Learning compositionally 
 through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). Arxiv.
 
