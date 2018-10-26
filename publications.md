@@ -9,6 +9,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### 2018
 
+R. Leonandya, E. Bruni, D. Hupkes, G. Kruszewski [The Fast and the Flexible: training neural networks 
+to learn to follow instructions from small data](https://arxiv.org/pdf/1809.06194.pdf). Arxiv.
+
 G. Bani, D. Belli, G. Dagan, A. Geenen, A. Skliar, A. Venkatesh, T. Baumgärtner, E. Bruni, and R. Fernández. 
 [Adding object detection skills to visual dialogue agents.](https://staff.fnwi.uva.nl/r.fernandezrovira/papers/2018/BaniEtal-sivl2018.pdf). 
 In Proceedings of the Workshop on Shortcomings in Vision and Language (SiVL) at ECCV, 2018.
