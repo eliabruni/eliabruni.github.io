@@ -8,7 +8,13 @@ title: ""
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
 ### 2018
-G. Bani, T. Baumgaertner, A. Venkatesh, D. Belli, G. Dagan, A. Geenen, a. Skliar, E. Bruni, R. Fern�ndez. [Adding Object Detection Skills to Visual Dialogue Agents](). ECCV 2018. Workshop on Shortcomings in Vision and Language.
+
+G. Bani, D. Belli, G. Dagan, A. Geenen, A. Skliar, A. Venkatesh, T. Baumgärtner, E. Bruni, and R. Fernández. 
+[Adding object detection skills to visual dialogue agents.](https://staff.fnwi.uva.nl/r.fernandezrovira/papers/2018/BaniEtal-sivl2018.pdf). 
+In Proceedings of the Workshop on Shortcomings in Vision and Language (SiVL) at ECCV, 2018.
+
+A. Venkatesh, R. Shekhar, T. Baumgärtner, E. Bruni, R. Bernardi and R. Fernández. 
+[Jointly Learning to See, Ask, and GuessWhat.](https://arxiv.org/pdf/1809.03408.pdf). Arxiv.
 
 D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski, and, E. Bruni. [Learning compositionally 
 through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). Arxiv.
