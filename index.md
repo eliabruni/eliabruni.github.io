@@ -6,7 +6,7 @@ title: ""
 
 # About me
 
-I am currently a Marie Sklodowska-Curie Fellow at the [Computational Linguistics and 
+I am currently a [Marie Sklodowska-Curie Fellow](https://ec.europa.eu/research/mariecurieactions/) at the [Computational Linguistics and 
 Linguistic Theory (COLT) research group](https://www.upf.edu/web/colt), [University of Pompeu Fabra](https://www.upf.edu/) (Barcelona, Spain).
 
 Previously, I was Postdoc at the 
