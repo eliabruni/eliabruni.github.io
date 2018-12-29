@@ -5,8 +5,6 @@ title: ""
 
 
 # Talks
-<br/>
-<br/>
 #### Incoming
 * *08/02/2019*. University of UPF.
 * *24/01/2019*. University of Cambridge.
