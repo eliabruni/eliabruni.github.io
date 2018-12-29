@@ -14,7 +14,7 @@ Previously, I was Postdoc at the
 led by [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/), [ILLC](http://www.illc.uva.nl/), 
 University of Amsterdam.
 
-I obtained my PhD at the Language, Interaction and Computation Lab at the 
+I obtained my PhD at the [Language, Interaction and Computation Lab (CLIC)](http://clic.cimec.unitn.it/) at the 
 University of Trento. My research is in the areas of natural language 
 processing, computer vision and machine learning. In the past, I extracted distributional semantic models from pictures and 
 merged them with traditional text-based semantic representations. 
