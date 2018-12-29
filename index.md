@@ -6,7 +6,10 @@ title: ""
 
 # About me
 
-I am Postdoc at the 
+I am currently a Marie Sklodowska-Curie Fellow at the [Computational Linguistics and 
+Linguistic Theory (COLT) research group](https://www.upf.edu/web/colt), [University of Pompeu Fabra](https://www.upf.edu/) (Barcelona, Spain).
+
+Previously, I was Postdoc at the 
 [Dialogue Modelling Group](https://staff.fnwi.uva.nl/r.fernandezrovira/dialogue-group.php)
 led by [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/), [ILLC](http://www.illc.uva.nl/), 
 University of Amsterdam.
