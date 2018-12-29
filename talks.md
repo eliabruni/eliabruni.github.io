@@ -5,6 +5,7 @@ title: ""
 
 
 # Talks
+
 ### Incoming
 * *08/02/2019*. University of UPF.
 * *24/01/2019*. University of Cambridge.
@@ -20,7 +21,7 @@ title: ""
 * *14/12/2017.* Visually Grounded Dialogue. University of Groningen
 <br/>
 <br/>
-#### 2016
+### 2016
 * *14/03/2016.* Advances in Medical Image Analysis. BVM2016, Berlin
 <br/>
 <br/>
