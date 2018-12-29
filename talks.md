@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-# Talks
+# Invited talks
 ### Incoming
 * *08/02/2019*. University of UPF.
 * *24/01/2019*. University of Cambridge.
@@ -30,6 +30,6 @@ title: ""
 * *25/09/2012.* Multimodal Distributional Semantics. CODISCO. University of Rome 3.
 
 ### 2011
-* *16/12/2011.* Multimodal Distributional Semantics. Workshop on Integrating Lan- guage and Vision held at NIPS 2011. Sierra Nevada, Spain.
+* *16/12/2011.* Multimodal Distributional Semantics. Workshop on Integrating Language and Vision held at NIPS 2011. Sierra Nevada, Spain.
 * *25/09/2011.* Hadoop Streaming: An Introduction. CLIC-CIMEC, University of Trento.
 * *23/03/2011.* Multimodal semantic spaces. KnowDive seminar series, University of Trento.
