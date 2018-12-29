@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Talks
+title: ""
 ---
+
+
+# Talks
 #### Incoming
 * *08/02/2019*. University of UPF.
 * *24/01/2019*. University of Cambridge.
