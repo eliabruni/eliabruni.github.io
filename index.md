@@ -22,7 +22,7 @@ merged them with traditional text-based semantic representations.
 At ILLC I am building 
 neural conversational agents that learn via visual games. Together with 
 [Dieuwke Hupkes](http://dieuwkehupkes.nl/),
-I am also coordinating [i-machine-think](http://i-machine-think.github.io/), 
+I am also coordinating [i-machine-think](https://github.com/i-machine-think), 
 a project about compositionality in neural networks. 
 
 **[Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en)**
