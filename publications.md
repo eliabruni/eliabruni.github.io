@@ -13,27 +13,27 @@ R. Leonandya, E. Bruni, D. Hupkes, G. Kruszewski [The Fast and the Flexible: tra
 to learn to follow instructions from small data](https://arxiv.org/pdf/1809.06194.pdf). IWCS 2019
 
 D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski, and, E. Bruni. [Learning compositionally 
-through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). CICLing 2019.
+through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). CICLing 2019
 
 A. Venkatesh, R. Shekhar, T. Baumgärtner, E. Bruni, B. Plank, R. Bernardi and R. Fernández. 
 [Beyond task success: A closer look at jointly learning to see, ask, and 
-GuessWhat.](). NAACL 2019.
+GuessWhat.](). NAACL 2019
 
 ### 2018
 
 G. Bani, D. Belli, G. Dagan, A. Geenen, A. Skliar, A. Venkatesh, T. Baumgärtner, E. Bruni, and R. Fernández. 
 [Adding object detection skills to visual dialogue agents.](https://staff.fnwi.uva.nl/r.fernandezrovira/papers/2018/BaniEtal-sivl2018.pdf). 
-In Proceedings of the Workshop on Shortcomings in Vision and Language (SiVL) at ECCV, 2018.
+In Proceedings of the Workshop on Shortcomings in Vision and Language (SiVL) at ECCV, 2018
 
 R. Shekkar, T. Baumgartner, A. Venkatesh, E. Bruni, R. Bernardi, and R. Fernandez. [Ask No More: Deciding when 
-to guess in referential visual dialogue](https://arxiv.org/pdf/1805.06960.pdf). COLING 2018.
+to guess in referential visual dialogue](https://arxiv.org/pdf/1805.06960.pdf). COLING 2018
 
 ### 2017
 E. Bruni and R. Fernandez. [Adversarial evaluation for open-domain 
-dialogue generation](http://www.aclweb.org/anthology/W17-5534). Proceedings of SIGdial 2017.
+dialogue generation](http://www.aclweb.org/anthology/W17-5534). Proceedings of SIGdial 2017
 
 Korsuk Sirinukunwattana et al. [Diagnostic assessment of deep learning algorithms for detection of 
-lymph node metastases in women with breast cancer](https://jamanetwork.com/journals/jama/fullarticle/2665774). Jama 318.22 (2017): 2199-2210.
+lymph node metastases in women with breast cancer](https://jamanetwork.com/journals/jama/fullarticle/2665774). Jama 318.22 (2017): 2199-2210
 
 Korsuk Sirinukunwattana et al. [Gland Segmentation in Colon Histology Images: The GlaS Challenge Contest](https://arxiv.org/pdf/1603.00275.pdf). 
 Medical Image Analysis, 2016
@@ -60,7 +60,7 @@ Proceedings of the ACL 2014
 
 E. Bruni, N. K. Tran and M. Baroni. [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857). 
 Journal of Artificial Intelligence 
-Research 49: 1-47 2014. **IJCAI-JAIR Best Paper Prize**.
+Research 49: 1-47 2014. **IJCAI-JAIR Best Paper Prize**
 
 ### 2013
 
