@@ -7,23 +7,26 @@ title: ""
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
-### 2018
+### 2019
 
 R. Leonandya, E. Bruni, D. Hupkes, G. Kruszewski [The Fast and the Flexible: training neural networks 
-to learn to follow instructions from small data](https://arxiv.org/pdf/1809.06194.pdf). Arxiv.
+to learn to follow instructions from small data](https://arxiv.org/pdf/1809.06194.pdf). IWCS 2019
+
+D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski, and, E. Bruni. [Learning compositionally 
+through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). CICLing 2019.
+
+A. Venkatesh, R. Shekhar, T. Baumgärtner, E. Bruni, B. Plank, R. Bernardi and R. Fernández. 
+[Beyond task success: A closer look at jointly learning to see, ask, and 
+GuessWhat.](). NAACL 2019.
+
+### 2018
 
 G. Bani, D. Belli, G. Dagan, A. Geenen, A. Skliar, A. Venkatesh, T. Baumgärtner, E. Bruni, and R. Fernández. 
 [Adding object detection skills to visual dialogue agents.](https://staff.fnwi.uva.nl/r.fernandezrovira/papers/2018/BaniEtal-sivl2018.pdf). 
 In Proceedings of the Workshop on Shortcomings in Vision and Language (SiVL) at ECCV, 2018.
 
-A. Venkatesh, R. Shekhar, T. Baumgärtner, E. Bruni, R. Bernardi and R. Fernández. 
-[Jointly Learning to See, Ask, and GuessWhat.](https://arxiv.org/pdf/1809.03408.pdf). Arxiv.
-
-D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski, and, E. Bruni. [Learning compositionally 
-through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). Arxiv.
-
 R. Shekkar, T. Baumgartner, A. Venkatesh, E. Bruni, R. Bernardi, and R. Fernandez. [Ask No More: Deciding when 
-to guess in referential visual dialogue](https://arxiv.org/pdf/1805.06960.pdf). COLING 2018
+to guess in referential visual dialogue](https://arxiv.org/pdf/1805.06960.pdf). COLING 2018.
 
 ### 2017
 E. Bruni and R. Fernandez. [Adversarial evaluation for open-domain 

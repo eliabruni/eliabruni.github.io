@@ -19,8 +19,7 @@ University of Trento. My research is in the areas of natural language
 processing, computer vision and machine learning. In the past, I extracted distributional semantic models from pictures and 
 merged them with traditional text-based semantic representations. 
 
-At ILLC I am building 
-neural conversational agents that learn via visual games. Together with 
+Together with 
 [Dieuwke Hupkes](http://dieuwkehupkes.nl/),
 I am also coordinating [i-machine-think](https://github.com/i-machine-think), 
 a project about compositionality in neural networks. 

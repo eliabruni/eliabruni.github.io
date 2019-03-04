@@ -5,11 +5,10 @@ title: ""
 
 
 # Invited talks
-### Next
-* *08/02/2019*. University of UPF.
-* *24/01/2019*. University of Cambridge.
 
 ### 2018
+* *08/02/2019.* University of UPF.
+* *24/01/2019.* University of Cambridge.
 * *10/07/2018.* Visually Grounded, Task-oriented Dialogue. University of UCL. 
 * *25/04/2018.* Visually Grounded, Task-oriented Dialogue. University of Cambridge. 
 * *11/06/2018.* Grounding word meaning in the visual world. University of Copenhagen.
