@@ -9,6 +9,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### 2019
 
+J. Haber, T. Baumgärtner, E. Takmaz, L. Gelderloos, E. Bruni and Raquel Fernández.The PhotoBook dataset: Building common ground through visually grounded dialogue. ACL 2019
+
 R. Leonandya, E. Bruni, D. Hupkes, G. Kruszewski [The Fast and the Flexible: training neural networks 
 to learn to follow instructions from small data](https://arxiv.org/pdf/1809.06194.pdf). IWCS 2019
 
