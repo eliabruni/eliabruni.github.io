@@ -21,7 +21,7 @@ merged them with traditional text-based semantic representations.
 
 Together with 
 [Dieuwke Hupkes](http://dieuwkehupkes.nl/),
-I am also coordinating [i-machine-think](https://github.com/i-machine-think), 
+I am also coordinating [i-machine-think](http://i-machine-think.github.io), 
 a project about compositionality in neural networks. 
 
 **[Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en)**

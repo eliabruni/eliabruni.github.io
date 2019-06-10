@@ -12,13 +12,13 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 D. Ulmer, D. Hupkes and E. Bruni. [Assessing incrementality in sequence-to-sequence models](). ACL Workshop Repl4NLP. 2019
 
 K. Korrel, D. Hupkes, V. Dankers and E. Bruni. 
-[Transcoding compositionally: using attention to find more generalizable solutions](). ACL Workshop BlackboxNLP. 2019
+[Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/abs/1906.01234). ACL Workshop BlackboxNLP. 2019
 
 J. Baan, j. Leible, M. Nikolaus, D. Rau, T. Baumgärtner, D. Hupkes and E. Bruni. 
-[On the Realization of Compositionality in Neural Networks](). ACL Workshop BlackboxNLP. 2019
+[On the Realization of Compositionality in Neural Networks](https://arxiv.org/abs/1906.01634). ACL Workshop BlackboxNLP. 2019
 
 J. Haber, T. Baumgärtner, E. Takmaz, L. Gelderloos, E. Bruni and Raquel Fernández. 
-[The PhotoBook dataset: Building common ground through visually grounded dialogue](). ACL 2019
+[The PhotoBook dataset: Building common ground through visually grounded dialogue](https://arxiv.org/abs/1906.01530). ACL 2019
 
 R. Leonandya, E. Bruni, D. Hupkes, G. Kruszewski [The Fast and the Flexible: training neural networks 
 to learn to follow instructions from small data](https://arxiv.org/pdf/1809.06194.pdf). IWCS 2019
