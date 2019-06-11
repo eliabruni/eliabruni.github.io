@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### 2019
 
-D. Ulmer, D. Hupkes and E. Bruni. [Assessing incrementality in sequence-to-sequence models](). ACL Workshop Repl4NLP. 2019
+D. Ulmer, D. Hupkes and E. Bruni. [Assessing incrementality in sequence-to-sequence models](https://arxiv.org/pdf/1906.03293.pdf). ACL Workshop Repl4NLP. 2019
 
 K. Korrel, D. Hupkes, V. Dankers and E. Bruni. 
 [Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/abs/1906.01234). ACL Workshop BlackboxNLP. 2019
