@@ -28,7 +28,7 @@ through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). CICLing 2019
 
 A. Venkatesh, R. Shekhar, T. Baumgärtner, E. Bruni, B. Plank, R. Bernardi and R. Fernández. 
 [Beyond task success: A closer look at jointly learning to see, ask, and 
-GuessWhat.](). NAACL 2019
+GuessWhat](https://arxiv.org/abs/1809.03408). NAACL 2019
 
 ### 2018
 
