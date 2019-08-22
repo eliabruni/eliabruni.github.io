@@ -7,7 +7,7 @@ title: ""
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
-### 2019
+### 2019 
 
 M. Mul, D. Bouchacourt and E. Bruni. [Mastering emergent language: learning to guide in simulated navigation](https://arxiv.org/abs/1908.05135). arXiv preprint arXiv:1908.05135. 2019
 
