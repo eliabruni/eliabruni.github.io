@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### 2019 
 
-
+D. Hupkes, V. Dankers, M. Mul and E. Bruni. [The compositionality of neural networks: integrating symbolism and connectionism](http://eliabruni.github.io/publications/hupkes2019compositionality.pdf). submitted. 2019
 
 M. Mul, D. Bouchacourt and E. Bruni. [Mastering emergent language: learning to guide in simulated navigation](https://arxiv.org/abs/1908.05135). arXiv preprint arXiv:1908.05135. 2019
 
