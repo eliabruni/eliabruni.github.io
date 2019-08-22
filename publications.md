@@ -11,6 +11,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 D. Hupkes, V. Dankers, M. Mul and E. Bruni. [The compositionality of neural networks: integrating symbolism and connectionism](http://eliabruni.github.io/publications/hupkes2019compositionality.pdf). Submitted
 
+G. Dagan, D. Hupkes and E. Bruni. [Co-evolution of language and agents in referential games](http://eliabruni.github.io/publications/dagan2019coevolution.pdf). Submitted
+
 M. Mul, D. Bouchacourt and E. Bruni. [Mastering emergent language: learning to guide in simulated navigation](https://arxiv.org/abs/1908.05135). arXiv preprint arXiv:1908.05135. 2019
 
 D. Ulmer, D. Hupkes and E. Bruni. [Assessing incrementality in sequence-to-sequence models](https://arxiv.org/pdf/1906.03293.pdf). ACL Workshop Repl4NLP. 2019
