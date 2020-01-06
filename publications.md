@@ -7,10 +7,11 @@ title: ""
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
-### 2019 
+### 2020
 T. A. Unger, E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communication
-Between General Agents](). TO appear. 2019
+Between General Agents](). To appear
 
+### 2019 
 Y. Dubois, G. Dagan, D. Hupkes, E. Bruni. [Location Attention for Extrapolation to Longer Sequences](https://arxiv.org/abs/1911.03872). arXiv preprint arXiv:1911.03872. 2019
 
 B. Kolb, L. Lang, H. Bartsch, A. Gansekoele, R. Koopmanschap, L. Romor, D. Speck, M. Mul, E. Bruni [Learning to Request Guidance in Emergent Communication](https://arxiv.org/abs/1912.05525). EMNLP-IJCNLP Workshop LANTERN. 2019
