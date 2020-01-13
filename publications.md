@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### 2020
 T. A. Unger, E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communication
-Between General Agents](). To appear
+Between General Agents](https://arxiv.org/abs/2001.01772). arXiv preprint arXiv:2001.01772. 2020
 
 ### 2019 
 Y. Dubois, G. Dagan, D. Hupkes, E. Bruni. [Location Attention for Extrapolation to Longer Sequences](https://arxiv.org/abs/1911.03872). arXiv preprint arXiv:1911.03872. 2019
