@@ -24,7 +24,7 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   Publications: "publications"
-  Talks: "talks"
+#  Talks: "talks"
 #  i-machine-think: "https://github.com/i-machine-think"
   i-machine-think: "http://i-machine-think.github.io/"
 
