@@ -8,6 +8,8 @@ title: ""
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
 ### 2020
+G. Dagan, D. Hupkes and E. Bruni. [Co-evolution of language and agents in referential games](https://arxiv.org/abs/2001.03361). arXiv preprint arXiv:2001.03361. 2020
+
 T. A. Unger, E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communication
 Between General Agents](https://arxiv.org/abs/2001.01772). arXiv preprint arXiv:2001.01772. 2020
 
@@ -17,8 +19,6 @@ Y. Dubois, G. Dagan, D. Hupkes, E. Bruni. [Location Attention for Extrapolation 
 B. Kolb, L. Lang, H. Bartsch, A. Gansekoele, R. Koopmanschap, L. Romor, D. Speck, M. Mul, E. Bruni [Learning to Request Guidance in Emergent Communication](https://arxiv.org/abs/1912.05525). EMNLP-IJCNLP Workshop LANTERN. 2019
 
 D. Hupkes, V. Dankers, M. Mul and E. Bruni. [The compositionality of neural networks: integrating symbolism and connectionism](http://eliabruni.github.io/publications/hupkes2019compositionality.pdf). Journal of Artificial Intelligence. To appear
-
-G. Dagan, D. Hupkes and E. Bruni. [Co-evolution of language and agents in referential games](http://eliabruni.github.io/publications/dagan2019coevolution.pdf). Submitted
 
 M. Mul, D. Bouchacourt and E. Bruni. [Mastering emergent language: learning to guide in simulated navigation](https://arxiv.org/abs/1908.05135). arXiv preprint arXiv:1908.05135. 2019
 
