@@ -8,6 +8,8 @@ title: ""
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
 ### 2020
+M. v. d. Meer, M. Pirotta, E. Bruni. [Exploiting Language Instructions for Interpretable and Compositional Reinforcement Learning](https://arxiv.org/abs/2001.04418). arXiv preprint arXiv:2001.04418. 2020
+
 G. Dagan, D. Hupkes and E. Bruni. [Co-evolution of language and agents in referential games](https://arxiv.org/abs/2001.03361). arXiv preprint arXiv:2001.03361. 2020
 
 T. A. Unger, E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communication
