@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### 2020
 A. Soeteman, D. Gutierrez, E. Bruni and E. Shutova. [Modelling form-meaning systematicity 
-with linguistic and visual features](). In Proceedings of AAAI. 2020.
+with linguistic and visual features](). In Proceedings of AAAI. 2020
 
 M. v. d. Meer, M. Pirotta, E. Bruni. [Exploiting Language Instructions for Interpretable and Compositional Reinforcement Learning](https://arxiv.org/abs/2001.04418). arXiv preprint arXiv:2001.04418. 2020
 
