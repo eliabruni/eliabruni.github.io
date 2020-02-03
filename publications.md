@@ -8,6 +8,8 @@ title: ""
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
 ### 2020
+B. Keresztury, E. Bruni. [Compositional properties of emergent languages in deep learning](https://arxiv.org/abs/2001.08618). arXiv preprint arXiv:2001.08618. 2020
+
 A. Soeteman, D. Gutierrez, E. Bruni and E. Shutova. [Modelling form-meaning systematicity 
 with linguistic and visual features](). In Proceedings of AAAI. 2020
 
