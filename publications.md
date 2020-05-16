@@ -8,6 +8,10 @@ title: ""
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
 
 ### 2020
+Y. Dubois, G. Dagan, D. Hupkes and  E. Bruni. Location Attention for Extrapolation to Longer Sequences. To appear at ACL2020
+
+R.D. Luna, E.M. Ponti, D. Hupkes and Bruni E. [Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency](https://arxiv.org/abs/2004.03868). arXiv preprint arXiv:2004.03868. 2020
+
 B. Keresztury, E. Bruni. [Compositional properties of emergent languages in deep learning](https://arxiv.org/abs/2001.08618). arXiv preprint arXiv:2001.08618. 2020
 
 A. Soeteman, D. Gutierrez, E. Bruni and E. Shutova. [Modelling form-meaning systematicity 
@@ -21,8 +25,6 @@ T. A. Unger, E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communi
 Between General Agents](https://arxiv.org/abs/2001.01772). arXiv preprint arXiv:2001.01772. 2020
 
 ### 2019 
-Y. Dubois, G. Dagan, D. Hupkes, E. Bruni. [Location Attention for Extrapolation to Longer Sequences](https://arxiv.org/abs/1911.03872). arXiv preprint arXiv:1911.03872. 2019
-
 B. Kolb, L. Lang, H. Bartsch, A. Gansekoele, R. Koopmanschap, L. Romor, D. Speck, M. Mul, E. Bruni [Learning to Request Guidance in Emergent Communication](https://arxiv.org/abs/1912.05525). EMNLP-IJCNLP Workshop LANTERN. 2019
 
 D. Hupkes, V. Dankers, M. Mul and E. Bruni. [The compositionality of neural networks: integrating symbolism and connectionism](http://eliabruni.github.io/publications/hupkes2019compositionality.pdf). Journal of Artificial Intelligence. To appear
