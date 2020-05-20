@@ -6,7 +6,7 @@ title: ""
 
 # About me
 
-I an an interim professor for Computational Linguistics and Cognitive Science at the [University of Osnabrück](https://www.uni-osnabrueck.de/startseite/).
+I an an interim professor of Computational Linguistics and Cognitive Science at the [University of Osnabrück](https://www.uni-osnabrueck.de/startseite/).
 
 Previously, I was a [Marie Sklodowska-Curie Fellow](https://ec.europa.eu/research/mariecurieactions/) at the [Computational Linguistics and 
 Linguistic Theory (COLT) research group](https://www.upf.edu/web/colt), [University of Pompeu Fabra](https://www.upf.edu/) (Barcelona, Spain).
