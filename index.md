@@ -1,23 +1,21 @@
 ---
-layout: page
-title: ""
+layout: home
+title: Elia Bruni
 ---
 
+## 01 -- About
 
-# About me
+I am a Professor of Natural Language Processing at the [University of Osnabrueck](https://www.uni-osnabrueck.de/). My research focuses on understanding and evaluating how AI systems reason -- particularly probing the capabilities and limitations of large language models and vision-language models across visual reasoning, grounded language understanding, and emergent communication.
 
-I am professor of Natural Language Processing at the [University of Osnabrück](https://www.uni-osnabrueck.de/startseite/).
+Previously, I was a [Marie Sklodowska-Curie Fellow](https://ec.europa.eu/research/mariecurieactions/) at [Universitat Pompeu Fabra](https://www.upf.edu/) (Barcelona). I obtained my PhD at the [University of Trento](https://www.unitn.it/), working on multimodal distributional semantics.
 
-Previously, I was a [Marie Sklodowska-Curie Fellow](https://ec.europa.eu/research/mariecurieactions/) at the [Computational Linguistics and 
-Linguistic Theory (COLT) research group](https://www.upf.edu/web/colt), [University of Pompeu Fabra](https://www.upf.edu/) (Barcelona, Spain).
+## 02 -- Research
 
-I obtained my PhD at the [Language, Interaction and Computation Lab (CLIC)](http://clic.cimec.unitn.it/) at the 
-University of Trento. My research is in the areas of natural language 
-processing, computer vision and machine learning. In the past, I extracted distributional semantic models from pictures and 
-merged them with traditional text-based semantic representations. 
+My work lies at the intersection of natural language processing, machine learning, and cognitive science. Current research directions include:
 
-Together with 
-[Dieuwke Hupkes](http://dieuwkehupkes.nl/),
-I am coordinating [i-machine-think](http://i-machine-think.github.io) lab. 
+- Probing and evaluating vision-language models for visual-spatial reasoning and intuitive physics
+- Benchmarking multimodal AI systems (iVISPAR, SPLICE, GRASP)
+- Emergent communication in situated and open-ended environments
+- Consistency and interpretability of large language models
+- Grounded language understanding and physical reasoning
 
-**[Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en)**

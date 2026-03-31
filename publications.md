@@ -1,134 +1,154 @@
 ---
 layout: page
-title: ""
+title: Publications
 ---
 
-# Publications
+See also: [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ)
 
-I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ&hl=en).
+### 2025
+
+M. Ahmad, M. Ballout, R. Abu Ahmad and E. Bruni. **Transformer Tafsir at QIAS 2025 Shared Task: Hybrid Retrieval-Augmented Generation for Islamic Knowledge Question Answering**. ANLP Shared Tasks, 2025
+
+M. Ballout, O. Wilfred, S. Yaghoubi, N. Abdelmoneim, J. Mayer and E. Bruni. **Can you SPLICE it together? A Human Curated Benchmark for Probing Visual Reasoning in VLMs**. EMNLP, 2025
+
+K. Kobrock, X. Ohmer, E. Bruni and N. Gotzner. **Agents generalize to novel levels of abstraction by using adaptive linguistic strategies**. ACL, 2025
+
+M. Ballout, S. Jassim and E. Bruni. **Pixels to Principles: Probing Intuitive Physics Understanding in Multimodal Language Models**. arXiv preprint, 2025
+
+J. Mayer, M. Ballout, S. Jassim, F. Nezami and E. Bruni. **iVISPAR -- An Interactive Visual-Spatial Reasoning Benchmark for VLMs**. EMNLP, 2025
+
+### 2024
+
+C. Wolff, J. Mayer, E. Bruni and X. Ohmer. **Emergent Language in Open-Ended Environments**. arXiv preprint, 2024
+
+L. Weber, J. Jumelet, E. Bruni and D. Hupkes. **Interpretability of Language Models via Task Spaces**. ACL, 2024
+
+X. Ohmer, E. Bruni and D. Hupkes. **From Form(s) to Meaning: Probing the Semantic Depths of Language Models Using Multisense Consistency**. Computational Linguistics, 2024
+
+K. Kobrock, X. Ohmer, E. Bruni and N. Gotzner. **Context Shapes Emergent Communication about Concepts at Different Levels of Abstraction**. LREC, 2024
+
+C. Wolff, J. Mayer, E. Bruni and X. Ohmer. **Bidirectional Emergent Language in Situated Environments**. 2024
+
+M. Kaup, C. Wolff, H. Hwang, J. Mayer and E. Bruni. **A Review of Nine Physics Engines for Reinforcement Learning Research**. arXiv preprint, 2024
+
+### 2023
+
+S. Jassim, M.S. Holubar, A. Richter, C. Wolff, X. Ohmer and E. Bruni. **GRASP: A novel benchmark for evaluating language GRounding And Situated Physics understanding**. IJCAI, 2023
+
+L. Weber, E. Bruni and D. Hupkes. **Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning**. CoNLL, 2023
+
+L. Weber, E. Bruni and D. Hupkes. **The ICL Consistency Test**. arXiv preprint, 2023
+
+X. Ohmer, E. Bruni and D. Hupkes. **Evaluating task understanding through multilingual consistency: A ChatGPT case study**. 2023
+
+L. Weber, J. Jumelet, P. Michel, E. Bruni and D. Hupkes. **Curriculum Learning with Adam: The Devil Is in the Wrong Details**. arXiv preprint, 2023
+
+X. Ohmer, E. Bruni and D. Hupkes. **Separating form and meaning: Using self-consistency to quantify task understanding across multiple senses**. GEM Workshop, 2023
+
+### 2022
+
+X. Ohmer, M. Duda and E. Bruni. **Emergence of Hierarchical Reference Systems in Multi-agent Communication**. COLING, 2022
+
+### 2021
+
+L. Weber, J. Jumelet, E. Bruni and D. Hupkes. **Language Modelling as a Multi-Task Problem**. EACL, 2021
+
+V. Dankers, E. Bruni and D. Hupkes. **The Paradox of the Compositionality of Natural Language: A Neural Machine Translation Case Study**. ACL, 2021
 
 ### 2020
-Y. Dubois, G. Dagan, D. Hupkes and  E. Bruni. Location Attention for Extrapolation to Longer Sequences. To appear at ACL2020
 
-R.D. Luna, E.M. Ponti, D. Hupkes and Bruni E. [Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency](https://arxiv.org/abs/2004.03868). arXiv preprint arXiv:2004.03868. 2020
+O. van der Wal, S. de Boer, E. Bruni and D. Hupkes. **The Grammar of Emergent Languages**. EMNLP, 2020
 
-B. Keresztury, E. Bruni. [Compositional properties of emergent languages in deep learning](https://arxiv.org/abs/2001.08618). arXiv preprint arXiv:2001.08618. 2020
+D. Rodriguez Luna, E.M. Ponti, D. Hupkes and E. Bruni. [Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency](https://arxiv.org/abs/2004.03868). EMNLP Findings, 2020
 
-A. Soeteman, D. Gutierrez, E. Bruni and E. Shutova. [Modelling form-meaning systematicity 
-with linguistic and visual features](). In Proceedings of AAAI. 2020
+Y. Dubois, G. Dagan, D. Hupkes and E. Bruni. **Location Attention for Extrapolation to Longer Sequences**. ACL, 2020
 
-M. v. d. Meer, M. Pirotta, E. Bruni. [Exploiting Language Instructions for Interpretable and Compositional Reinforcement Learning](https://arxiv.org/abs/2001.04418). arXiv preprint arXiv:2001.04418. 2020
+B. Keresztury and E. Bruni. [Compositional properties of emergent languages in deep learning](https://arxiv.org/abs/2001.08618). arXiv preprint, 2020
 
-G. Dagan, D. Hupkes and E. Bruni. [Co-evolution of language and agents in referential games](https://arxiv.org/abs/2001.03361). arXiv preprint arXiv:2001.03361. 2020
+A. Soeteman, E. Gutierrez, E. Bruni and E. Shutova. **Modelling Form-Meaning Systematicity with Linguistic and Visual Features**. AAAI, 2020
 
-T. A. Unger, E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communication
-Between General Agents](https://arxiv.org/abs/2001.01772). arXiv preprint arXiv:2001.01772. 2020
+M. van der Meer, M. Pirotta and E. Bruni. [Exploiting Language Instructions for Interpretable and Compositional Reinforcement Learning](https://arxiv.org/abs/2001.04418). arXiv preprint, 2020
 
-### 2019 
-B. Kolb, L. Lang, H. Bartsch, A. Gansekoele, R. Koopmanschap, L. Romor, D. Speck, M. Mul, E. Bruni [Learning to Request Guidance in Emergent Communication](https://arxiv.org/abs/1912.05525). EMNLP-IJCNLP Workshop LANTERN. 2019
+G. Dagan, D. Hupkes and E. Bruni. [Co-evolution of language and agents in referential games](https://arxiv.org/abs/2001.03361). EACL, 2020
 
-D. Hupkes, V. Dankers, M. Mul and E. Bruni. [The compositionality of neural networks: integrating symbolism and connectionism](http://eliabruni.github.io/publications/hupkes2019compositionality.pdf). Journal of Artificial Intelligence. To appear
+T.A. Unger and E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communication Between General Agents](https://arxiv.org/abs/2001.01772). arXiv preprint, 2020
 
-M. Mul, D. Bouchacourt and E. Bruni. [Mastering emergent language: learning to guide in simulated navigation](https://arxiv.org/abs/1908.05135). arXiv preprint arXiv:1908.05135. 2019
+D. Hupkes, V. Dankers, M. Mul and E. Bruni. **Compositionality Decomposed: How do Neural Networks Generalise?**. JAIR / IJCAI, 2020
 
-D. Ulmer, D. Hupkes and E. Bruni. [Assessing incrementality in sequence-to-sequence models](https://arxiv.org/pdf/1906.03293.pdf). ACL Workshop Repl4NLP. 2019
+### 2019
 
-K. Korrel, D. Hupkes, V. Dankers and E. Bruni. 
-[Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/abs/1906.01234). ACL Workshop BlackboxNLP. 2019
+B. Kolb, L. Lang, H. Bartsch, A. Gansekoele, R. Koopmanschap, L. Romor, D. Speck, M. Mul and E. Bruni. [Learning to Request Guidance in Emergent Communication](https://arxiv.org/abs/1912.05525). EMNLP Workshop LANTERN, 2019
 
-J. Baan, j. Leible, M. Nikolaus, D. Rau, T. Baumgärtner, D. Hupkes and E. Bruni. 
-[On the Realization of Compositionality in Neural Networks](https://arxiv.org/abs/1906.01634). ACL Workshop BlackboxNLP. 2019
+D. Hupkes, V. Dankers, M. Mul and E. Bruni. [The compositionality of neural networks: integrating symbolism and connectionism](http://eliabruni.github.io/publications/hupkes2019compositionality.pdf). Journal of Artificial Intelligence Research, 2019
 
-J. Haber, T. Baumgärtner, E. Takmaz, L. Gelderloos, E. Bruni and Raquel Fernández. 
-[The PhotoBook dataset: Building common ground through visually grounded dialogue](https://arxiv.org/abs/1906.01530). ACL 2019
+M. Mul, D. Bouchacourt and E. Bruni. [Mastering emergent language: learning to guide in simulated navigation](https://arxiv.org/abs/1908.05135). arXiv preprint, 2019
 
-R. Leonandya, E. Bruni, D. Hupkes, G. Kruszewski [The Fast and the Flexible: training neural networks 
-to learn to follow instructions from small data](https://arxiv.org/pdf/1809.06194.pdf). IWCS 2019
+D. Ulmer, D. Hupkes and E. Bruni. [Assessing incrementality in sequence-to-sequence models](https://arxiv.org/pdf/1906.03293.pdf). ACL Workshop RepL4NLP, 2019
 
-D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski, and, E. Bruni. [Learning compositionally 
-through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). CICLing 2019
+K. Korrel, D. Hupkes, V. Dankers and E. Bruni. [Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/abs/1906.01234). ACL Workshop BlackboxNLP, 2019
 
-A. Venkatesh, R. Shekhar, T. Baumgärtner, E. Bruni, B. Plank, R. Bernardi and R. Fernández. 
-[Beyond task success: A closer look at jointly learning to see, ask, and 
-GuessWhat](https://arxiv.org/abs/1809.03408). NAACL 2019
+J. Baan, J. Leible, M. Nikolaus, D. Rau, T. Baumgartner, D. Hupkes and E. Bruni. [On the Realization of Compositionality in Neural Networks](https://arxiv.org/abs/1906.01634). ACL Workshop BlackboxNLP, 2019
+
+J. Haber, T. Baumgartner, E. Takmaz, L. Gelderloos, E. Bruni and R. Fernandez. [The PhotoBook Dataset: Building Common Ground through Visually-Grounded Dialogue](https://arxiv.org/abs/1906.01530). ACL, 2019
+
+R. Leonandya, E. Bruni, D. Hupkes and G. Kruszewski. [The Fast and the Flexible: training neural networks to learn to follow instructions from small data](https://arxiv.org/pdf/1809.06194.pdf). IWCS, 2019
+
+D. Hupkes, A.K. Singh, K. Korrel, G. Kruszewski and E. Bruni. [Learning compositionally through attentive guidance](https://arxiv.org/pdf/1805.09657.pdf). CICLing, 2019
+
+A. Venkatesh, R. Shekhar, T. Baumgartner, E. Bruni, B. Plank, R. Bernardi and R. Fernandez. [Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat](https://arxiv.org/abs/1809.03408). NAACL, 2019
 
 ### 2018
 
-G. Bani, D. Belli, G. Dagan, A. Geenen, A. Skliar, A. Venkatesh, T. Baumgärtner, E. Bruni, and R. Fernández. 
-[Adding object detection skills to visual dialogue agents.](https://staff.fnwi.uva.nl/r.fernandezrovira/papers/2018/BaniEtal-sivl2018.pdf). 
-In Proceedings of the Workshop on Shortcomings in Vision and Language (SiVL) at ECCV, 2018
+G. Bani, D. Belli, G. Dagan, A. Geenen, A. Skliar, A. Venkatesh, T. Baumgartner, E. Bruni and R. Fernandez. [Adding object detection skills to visual dialogue agents](https://staff.fnwi.uva.nl/r.fernandezrovira/papers/2018/BaniEtal-sivl2018.pdf). Workshop on Shortcomings in Vision and Language (SiVL) at ECCV, 2018
 
-R. Shekkar, T. Baumgartner, A. Venkatesh, E. Bruni, R. Bernardi, and R. Fernandez. [Ask No More: Deciding when 
-to guess in referential visual dialogue](https://arxiv.org/pdf/1805.06960.pdf). COLING 2018
+R. Shekhar, T. Baumgartner, A. Venkatesh, E. Bruni, R. Bernardi and R. Fernandez. [Ask No More: Deciding when to guess in referential visual dialogue](https://arxiv.org/pdf/1805.06960.pdf). COLING, 2018
 
 ### 2017
-E. Bruni and R. Fernandez. [Adversarial evaluation for open-domain 
-dialogue generation](http://www.aclweb.org/anthology/W17-5534). Proceedings of SIGdial 2017
 
-Korsuk Sirinukunwattana et al. [Diagnostic assessment of deep learning algorithms for detection of 
-lymph node metastases in women with breast cancer](https://jamanetwork.com/journals/jama/fullarticle/2665774). Jama 318.22 (2017): 2199-2210
+E. Bruni and R. Fernandez. [Adversarial evaluation for open-domain dialogue generation](http://www.aclweb.org/anthology/W17-5534). SIGdial, 2017
 
-Korsuk Sirinukunwattana et al. [Gland Segmentation in Colon Histology Images: The GlaS Challenge Contest](https://arxiv.org/pdf/1603.00275.pdf). 
-Medical Image Analysis, 2016
+K. Sirinukunwattana et al. **Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women with Breast Cancer**. JAMA 318.22, 2017
+
+### 2016
+
+K. Sirinukunwattana et al. [Gland Segmentation in Colon Histology Images: The GlaS Challenge Contest](https://arxiv.org/pdf/1603.00275.pdf). Medical Image Analysis, 2016
 
 ### 2015
-A.J. Anderson, E. Bruni, A. Lopopolo, M. Poesio and M. Baroni. 
-[Reading visually embodied meaning from the brain: visually grounded computational 
-models decode visual-object mental imagery induced by written text](https://www.sciencedirect.com/science/article/pii/S1053811915006345). Neuroimage 2015
 
-A. Sartori, V. Yanulevskaya, A. A. Salah, J. Uijlings, E. Bruni and N. Sebe. 
-[Affective Analysis of Professional and Amateurs Abstract Paintings 
-Using Statistical Analysis and Art Theory](http://www.huppelen.nl/publications/2015SartoriAffectiveAnalysisOfArtworks.pdf). In ACM transactions on 
-Interactive Intelligent Systems, 2015
+A.J. Anderson, E. Bruni, A. Lopopolo, M. Poesio and M. Baroni. [Reading visually embodied meaning from the brain: visually grounded computational models decode visual-object mental imagery induced by written text](https://www.sciencedirect.com/science/article/pii/S1053811915006345). NeuroImage, 2015
 
+A. Sartori, V. Yanulevskaya, A.A. Salah, J. Uijlings, E. Bruni and N. Sebe. [Affective Analysis of Professional and Amateur Abstract Paintings Using Statistical Analysis and Art Theory](http://www.huppelen.nl/publications/2015SartoriAffectiveAnalysisOfArtworks.pdf). ACM Transactions on Interactive Intelligent Systems, 2015
 
 ### 2014
-F. Celli, E. Bruni and B. Lepri.
-[Automatic Personality and Interaction Style Recognition from Facebook Profile Pictures](http://clic.cimec.unitn.it/fabio/2014celli-al@acmmm.pdf).
-Proceedings of the ACM Multimedia 2014 
 
-A. Lazaridou, E. Bruni and M. Baroni.
-[Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](http://www.aclweb.org/anthology/P14-1132).
-Proceedings of the ACL 2014 
+F. Celli, E. Bruni and B. Lepri. [Automatic Personality and Interaction Style Recognition from Facebook Profile Pictures](http://clic.cimec.unitn.it/fabio/2014celli-al@acmmm.pdf). ACM Multimedia, 2014
 
-E. Bruni, N. K. Tran and M. Baroni. [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857). 
-Journal of Artificial Intelligence 
-Research 49: 1-47 2014. **IJCAI-JAIR Best Paper Prize**
+A. Lazaridou, E. Bruni and M. Baroni. [Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](http://www.aclweb.org/anthology/P14-1132). ACL, 2014
+
+E. Bruni, N.K. Tran and M. Baroni. [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857). Journal of Artificial Intelligence Research 49: 1-47, 2014. **IJCAI-JAIR Best Paper Prize**
 
 ### 2013
 
-A. J. Anderson, E. Bruni, U. Bordignon, M. Poesio and M. Baroni.
-[Of words, eyes and brains: Correlating image-based distributional semantic models with neural representations of concepts](https://pdfs.semanticscholar.org/55c5/9814e5d5a1da7d399358412a9a0ca7a7ecc4.pdf).
-Proceedings of the EMNLP 2013
+E. Bruni and M. Baroni. **Visual Features for Linguists: Basic image analysis techniques for multimodally-curious NLPers**. ACL Tutorial, 2013
 
-E. Bruni, U. Bordignon, A. Liska, J. Uijlings and I. Sergienya.
-[VSEM: An open library for visual semantics representation](https://pdfs.semanticscholar.org/9434/524669777d281a8a7358f20181c9e157942e.pdf).
-Proceedings of the ACL 2013 (System demonstration)
+A.J. Anderson, E. Bruni, U. Bordignon, M. Poesio and M. Baroni. [Of Words, Eyes and Brains: Correlating image-based distributional semantic models with neural representations of concepts](https://pdfs.semanticscholar.org/55c5/9814e5d5a1da7d399358412a9a0ca7a7ecc4.pdf). EMNLP, 2013
+
+E. Bruni, U. Bordignon, A. Liska, J. Uijlings and I. Sergienya. [VSEM: An open library for visual semantics representation](https://pdfs.semanticscholar.org/9434/524669777d281a8a7358f20181c9e157942e.pdf). ACL (System Demonstration), 2013
 
 ### 2012
-Bruni, J. Uijlings, M. Baroni and N. Sebe
-[Distributional Semantics with Eyes: Using Image Analysis to Improve Computational Representations of Word Meaning](http://www.huppelen.nl/publications/bruniSemanticsWithEyesACMMM12.pdf).
-Proceedings of the ACM Multimedia 2012
 
-V. Yanulevskaya, J. Uijlings, E. Bruni, A. Sartori, F. Bacci, N. Sebe, E. Zamboni and D. Melcher.
-[In the eye of the beholder: Employing statistical analysis and eye tracking for analyzing abstract paintings](http://eliabruni.github.io/publications/yanulevskaya-etal-acm-2012.pdf)
-([Dataset](https://staff.fnwi.uva.nl/e.bruni/mart/dlform.html)). V. Yanulevskaya, J. Uijlings, E. Bruni, A. Sartori, F. Bacci, N. Sebe, E. Zamboni and D. Melcher
-Proceedings of the ACM Multimedia 2012
+E. Bruni, J. Uijlings, M. Baroni and N. Sebe. [Distributional Semantics with Eyes: Using Image Analysis to Improve Computational Representations of Word Meaning](http://www.huppelen.nl/publications/bruniSemanticsWithEyesACMMM12.pdf). ACM Multimedia, 2012
 
+V. Yanulevskaya, J. Uijlings, E. Bruni, A. Sartori, F. Bacci, N. Sebe, E. Zamboni and D. Melcher. [In the eye of the beholder: Employing statistical analysis and eye tracking for analyzing abstract paintings](http://eliabruni.github.io/publications/yanulevskaya-etal-acm-2012.pdf). ACM Multimedia, 2012
 
-E. Bruni, G. Boleda, M. Baroni and N. K. Tran.
-[Distributional Semantics in Technicolor](http://www.aclweb.org/anthology/P12-1015).
-Proceedings of the ACL 2012 (50th Annual Meeting of the Association for Computational Linguistics), East Stroudsburg PA: ACL.
+E. Bruni, G. Boleda, M. Baroni and N.K. Tran. [Distributional Semantics in Technicolor](http://www.aclweb.org/anthology/P12-1015). ACL, 2012
 
-E. Bruni, A. Ferrari, N. Seyff and G. Tolomei.
-[Automatic Analysis of Multimodal Requirements: A Research Preview](https://link.springer.com/chapter/10.1007/978-3-642-28714-5_19).
-REFSQ'12
+E. Bruni, A. Ferrari, N. Seyff and G. Tolomei. [Automatic Analysis of Multimodal Requirements: A Research Preview](https://link.springer.com/chapter/10.1007/978-3-642-28714-5_19). REFSQ, 2012
 
 ### 2011
-E. Bruni, G.B. Tran and M. Baroni.
-[Distributional semantics from text and images](https://pdfs.semanticscholar.org/1003/bccaddda851c19a1127b23691e17bc6a334b.pdf).
-Proceedings of the EMNLP 2011 Geometrical Models for Natural Language Semantics (GEMS) 
+
+E. Bruni, G.B. Tran and M. Baroni. [Distributional semantics from text and images](https://pdfs.semanticscholar.org/1003/bccaddda851c19a1127b23691e17bc6a334b.pdf). EMNLP Workshop GEMS, 2011
 
 ### PhD Thesis
 
-Elia Bruni. [Multimodal distributional semantics](http://eliabruni.github.io/publications/bruni2013thesis.pdf). 2013. PhD Thesis, University of Trento.
+E. Bruni. [Multimodal distributional semantics](http://eliabruni.github.io/publications/bruni2013thesis.pdf). PhD Thesis, University of Trento, 2013
