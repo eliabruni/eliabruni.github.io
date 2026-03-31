@@ -7,65 +7,65 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAA
 
 ### 2025
 
-M. Ahmad, M. Ballout, R. Abu Ahmad and E. Bruni. **Transformer Tafsir at QIAS 2025 Shared Task: Hybrid Retrieval-Augmented Generation for Islamic Knowledge Question Answering**. ANLP Shared Tasks, 2025
+M. Ahmad, M. Ballout, R. Abu Ahmad and E. Bruni. [Transformer Tafsir at QIAS 2025 Shared Task: Hybrid Retrieval-Augmented Generation for Islamic Knowledge Question Answering](https://arxiv.org/abs/2509.23793). ANLP Shared Tasks, 2025
 
-M. Ballout, O. Wilfred, S. Yaghoubi, N. Abdelmoneim, J. Mayer and E. Bruni. **Can you SPLICE it together? A Human Curated Benchmark for Probing Visual Reasoning in VLMs**. EMNLP, 2025
+M. Ballout, O. Wilfred, S. Yaghoubi, N. Abdelmoneim, J. Mayer and E. Bruni. [Can you SPLICE it together? A Human Curated Benchmark for Probing Visual Reasoning in VLMs](https://arxiv.org/abs/2509.24640). EMNLP, 2025
 
-K. Kobrock, X. Ohmer, E. Bruni and N. Gotzner. **Agents generalize to novel levels of abstraction by using adaptive linguistic strategies**. ACL, 2025
+K. Kobrock, X. Ohmer, E. Bruni and N. Gotzner. [Agents generalize to novel levels of abstraction by using adaptive linguistic strategies](https://aclanthology.org/2025.findings-acl.455/). ACL, 2025
 
-M. Ballout, S. Jassim and E. Bruni. **Pixels to Principles: Probing Intuitive Physics Understanding in Multimodal Language Models**. arXiv preprint, 2025
+M. Ballout, S. Jassim and E. Bruni. [Pixels to Principles: Probing Intuitive Physics Understanding in Multimodal Language Models](https://arxiv.org/abs/2507.16572). arXiv preprint, 2025
 
-J. Mayer, M. Ballout, S. Jassim, F. Nezami and E. Bruni. **iVISPAR -- An Interactive Visual-Spatial Reasoning Benchmark for VLMs**. EMNLP, 2025
+J. Mayer, M. Ballout, S. Jassim, F. Nezami and E. Bruni. [iVISPAR -- An Interactive Visual-Spatial Reasoning Benchmark for VLMs](https://arxiv.org/abs/2502.03214). EMNLP, 2025
 
 ### 2024
 
-C. Wolff, J. Mayer, E. Bruni and X. Ohmer. **Emergent Language in Open-Ended Environments**. arXiv preprint, 2024
+C. Wolff, J. Mayer, E. Bruni and X. Ohmer. [Emergent Language in Open-Ended Environments](https://arxiv.org/abs/2408.14649). arXiv preprint, 2024
 
-L. Weber, J. Jumelet, E. Bruni and D. Hupkes. **Interpretability of Language Models via Task Spaces**. ACL, 2024
+L. Weber, J. Jumelet, E. Bruni and D. Hupkes. [Interpretability of Language Models via Task Spaces](https://arxiv.org/abs/2406.06441). ACL, 2024
 
-X. Ohmer, E. Bruni and D. Hupkes. **From Form(s) to Meaning: Probing the Semantic Depths of Language Models Using Multisense Consistency**. Computational Linguistics, 2024
+X. Ohmer, E. Bruni and D. Hupkes. [From Form(s) to Meaning: Probing the Semantic Depths of Language Models Using Multisense Consistency](https://arxiv.org/abs/2404.12145). Computational Linguistics, 2024
 
-K. Kobrock, X. Ohmer, E. Bruni and N. Gotzner. **Context Shapes Emergent Communication about Concepts at Different Levels of Abstraction**. LREC, 2024
+K. Kobrock, X. Ohmer, E. Bruni and N. Gotzner. [Context Shapes Emergent Communication about Concepts at Different Levels of Abstraction](https://aclanthology.org/2024.lrec-main.339/). LREC, 2024
 
-C. Wolff, J. Mayer, E. Bruni and X. Ohmer. **Bidirectional Emergent Language in Situated Environments**. 2024
+C. Wolff, J. Mayer, E. Bruni and X. Ohmer. [Bidirectional Emergent Language in Situated Environments](https://arxiv.org/abs/2408.14649). 2024
 
-M. Kaup, C. Wolff, H. Hwang, J. Mayer and E. Bruni. **A Review of Nine Physics Engines for Reinforcement Learning Research**. arXiv preprint, 2024
+M. Kaup, C. Wolff, H. Hwang, J. Mayer and E. Bruni. [A Review of Nine Physics Engines for Reinforcement Learning Research](https://arxiv.org/abs/2407.08590). arXiv preprint, 2024
 
 ### 2023
 
-S. Jassim, M.S. Holubar, A. Richter, C. Wolff, X. Ohmer and E. Bruni. **GRASP: A novel benchmark for evaluating language GRounding And Situated Physics understanding**. IJCAI, 2023
+S. Jassim, M.S. Holubar, A. Richter, C. Wolff, X. Ohmer and E. Bruni. [GRASP: A novel benchmark for evaluating language GRounding And Situated Physics understanding](https://arxiv.org/abs/2311.09048). IJCAI, 2023
 
-L. Weber, E. Bruni and D. Hupkes. **Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning**. CoNLL, 2023
+L. Weber, E. Bruni and D. Hupkes. [Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning](https://arxiv.org/abs/2310.13486). CoNLL, 2023
 
-L. Weber, E. Bruni and D. Hupkes. **The ICL Consistency Test**. arXiv preprint, 2023
+L. Weber, E. Bruni and D. Hupkes. [The ICL Consistency Test](https://arxiv.org/abs/2312.04945). arXiv preprint, 2023
 
-X. Ohmer, E. Bruni and D. Hupkes. **Evaluating task understanding through multilingual consistency: A ChatGPT case study**. 2023
+X. Ohmer, E. Bruni and D. Hupkes. [Evaluating task understanding through multilingual consistency: A ChatGPT case study](https://arxiv.org/abs/2305.11662). 2023
 
-L. Weber, J. Jumelet, P. Michel, E. Bruni and D. Hupkes. **Curriculum Learning with Adam: The Devil Is in the Wrong Details**. arXiv preprint, 2023
+L. Weber, J. Jumelet, P. Michel, E. Bruni and D. Hupkes. [Curriculum Learning with Adam: The Devil Is in the Wrong Details](https://arxiv.org/abs/2308.12202). arXiv preprint, 2023
 
-X. Ohmer, E. Bruni and D. Hupkes. **Separating form and meaning: Using self-consistency to quantify task understanding across multiple senses**. GEM Workshop, 2023
+X. Ohmer, E. Bruni and D. Hupkes. [Separating form and meaning: Using self-consistency to quantify task understanding across multiple senses](https://arxiv.org/abs/2305.11662). GEM Workshop, 2023
 
 ### 2022
 
-X. Ohmer, M. Duda and E. Bruni. **Emergence of Hierarchical Reference Systems in Multi-agent Communication**. COLING, 2022
+X. Ohmer, M. Duda and E. Bruni. [Emergence of Hierarchical Reference Systems in Multi-agent Communication](https://arxiv.org/abs/2203.13176). COLING, 2022
 
 ### 2021
 
-L. Weber, J. Jumelet, E. Bruni and D. Hupkes. **Language Modelling as a Multi-Task Problem**. EACL, 2021
+L. Weber, J. Jumelet, E. Bruni and D. Hupkes. [Language Modelling as a Multi-Task Problem](https://arxiv.org/abs/2101.11287). EACL, 2021
 
-V. Dankers, E. Bruni and D. Hupkes. **The Paradox of the Compositionality of Natural Language: A Neural Machine Translation Case Study**. ACL, 2021
+V. Dankers, E. Bruni and D. Hupkes. [The Paradox of the Compositionality of Natural Language: A Neural Machine Translation Case Study](https://arxiv.org/abs/2108.05885). ACL, 2021
 
 ### 2020
 
-O. van der Wal, S. de Boer, E. Bruni and D. Hupkes. **The Grammar of Emergent Languages**. EMNLP, 2020
+O. van der Wal, S. de Boer, E. Bruni and D. Hupkes. [The Grammar of Emergent Languages](https://arxiv.org/abs/2010.02069). EMNLP, 2020
 
 D. Rodriguez Luna, E.M. Ponti, D. Hupkes and E. Bruni. [Internal and External Pressures on Language Emergence: Least Effort, Object Constancy and Frequency](https://arxiv.org/abs/2004.03868). EMNLP Findings, 2020
 
-Y. Dubois, G. Dagan, D. Hupkes and E. Bruni. **Location Attention for Extrapolation to Longer Sequences**. ACL, 2020
+Y. Dubois, G. Dagan, D. Hupkes and E. Bruni. [Location Attention for Extrapolation to Longer Sequences](https://arxiv.org/abs/1911.03872). ACL, 2020
 
 B. Keresztury and E. Bruni. [Compositional properties of emergent languages in deep learning](https://arxiv.org/abs/2001.08618). arXiv preprint, 2020
 
-A. Soeteman, E. Gutierrez, E. Bruni and E. Shutova. **Modelling Form-Meaning Systematicity with Linguistic and Visual Features**. AAAI, 2020
+A. Soeteman, E. Gutierrez, E. Bruni and E. Shutova. [Modelling Form-Meaning Systematicity with Linguistic and Visual Features](https://ojs.aaai.org/index.php/AAAI/article/view/6416). AAAI, 2020
 
 M. van der Meer, M. Pirotta and E. Bruni. [Exploiting Language Instructions for Interpretable and Compositional Reinforcement Learning](https://arxiv.org/abs/2001.04418). arXiv preprint, 2020
 
@@ -73,7 +73,7 @@ G. Dagan, D. Hupkes and E. Bruni. [Co-evolution of language and agents in refere
 
 T.A. Unger and E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communication Between General Agents](https://arxiv.org/abs/2001.01772). arXiv preprint, 2020
 
-D. Hupkes, V. Dankers, M. Mul and E. Bruni. **Compositionality Decomposed: How do Neural Networks Generalise?**. JAIR / IJCAI, 2020
+D. Hupkes, V. Dankers, M. Mul and E. Bruni. [Compositionality Decomposed: How do Neural Networks Generalise?](https://arxiv.org/abs/1908.08351). JAIR / IJCAI, 2020
 
 ### 2019
 
@@ -107,7 +107,7 @@ R. Shekhar, T. Baumgartner, A. Venkatesh, E. Bruni, R. Bernardi and R. Fernandez
 
 E. Bruni and R. Fernandez. [Adversarial evaluation for open-domain dialogue generation](http://www.aclweb.org/anthology/W17-5534). SIGdial, 2017
 
-K. Sirinukunwattana et al. **Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women with Breast Cancer**. JAMA 318.22, 2017
+K. Sirinukunwattana et al. [Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women with Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/29234806/). JAMA 318.22, 2017
 
 ### 2016
 
@@ -129,7 +129,7 @@ E. Bruni, N.K. Tran and M. Baroni. [Multimodal Distributional Semantics](https:/
 
 ### 2013
 
-E. Bruni and M. Baroni. **Visual Features for Linguists: Basic image analysis techniques for multimodally-curious NLPers**. ACL Tutorial, 2013
+E. Bruni and M. Baroni. [Visual Features for Linguists: Basic image analysis techniques for multimodally-curious NLPers](https://aclanthology.org/P13-4014/). ACL Tutorial, 2013
 
 A.J. Anderson, E. Bruni, U. Bordignon, M. Poesio and M. Baroni. [Of Words, Eyes and Brains: Correlating image-based distributional semantic models with neural representations of concepts](https://pdfs.semanticscholar.org/55c5/9814e5d5a1da7d399358412a9a0ca7a7ecc4.pdf). EMNLP, 2013
 
