@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-See also: [Google Scholar](https://scholar.google.com/citations?user=Oyb3NYgAAAAJ)
+See also: [Google Scholar](https://scholar.google.nl/citations?user=Oyb3NYgAAAAJ&hl=en)
 
 ### 2025
 
