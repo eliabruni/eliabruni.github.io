@@ -2,7 +2,7 @@
 url: "https://eliabruni.github.io"
 baseurl: ""
 title: Elia Bruni
-description: "Professor of Natural Language Processing at the University of Osnabrueck"
+description: "Professor of Natural Language Processing at the University of Osnabrück"
 
 # Navigation
 navbar-links:
@@ -13,7 +13,7 @@ navbar-links:
 author:
   name: Elia Bruni
   role: "Professor of Natural Language Processing"
-  affiliation: "University of Osnabrueck"
+  affiliation: "University of Osnabrück"
   email: "elia.bruni@gmail.com"
   scholar: "https://scholar.google.nl/citations?user=Oyb3NYgAAAAJ&hl=en"
   github: "eliabruni"

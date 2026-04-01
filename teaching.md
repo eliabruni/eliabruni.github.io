@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-Courses taught at the University of Osnabrueck, Department of Cognitive Science.
+Courses taught at the University of Osnabrück, Department of Cognitive Science.
 
 ### SoSe 2026
 
