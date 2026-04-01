@@ -1,3 +1,33 @@
+/* === Charter Serif Font === */
+@font-face {
+  font-family: 'Charter';
+  src: url('../assets/fonts/Charter/charter_regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Charter';
+  src: url('../assets/fonts/Charter/charter_italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Charter';
+  src: url('../assets/fonts/Charter/charter_bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Charter';
+  src: url('../assets/fonts/Charter/charter_bold_italic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
 /* === Reset === */
 *, *::before, *::after {
   box-sizing: border-box;
@@ -7,17 +37,17 @@
 
 /* === Design Tokens === */
 :root {
-  --bg: #faf8f5;
-  --bg-warm: #f5f0eb;
+  --bg: #f4f3ef;
+  --bg-warm: #eceae4;
   --surface: #ffffff;
-  --text: #1a1a1a;
-  --text-secondary: #6b6560;
-  --text-muted: #9e9590;
+  --text: #353535;
+  --text-secondary: #5a5a5a;
+  --text-muted: #8a8a8a;
   --accent: #c17f59;
   --accent-hover: #a86a47;
   --accent-light: rgba(193, 127, 89, 0.1);
-  --border: #ece7e1;
-  --border-light: #f0ece7;
+  --border: #dedbd4;
+  --border-light: #e8e5df;
   --transition: 0.25s ease;
 }
 
@@ -277,7 +307,7 @@ main {
 }
 
 .hero-greeting {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Charter', Georgia, serif;
   font-style: italic;
   font-size: 0.95rem;
   font-weight: 400;
