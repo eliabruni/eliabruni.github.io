@@ -11,7 +11,7 @@ Previously, I was a [Marie Sklodowska-Curie Fellow](https://ec.europa.eu/researc
 
 ## 02 -- Research
 
-My work lies at the intersection of natural language processing, machine learning, and cognitive science. Current research directions include:
+My work lies at the intersection of natural language processing, computer vision, machine learning, and vision-language models, with a growing interest in embodied AI. Current research directions include:
 
 - Probing and evaluating vision-language models for visual-spatial reasoning and intuitive physics
 - Benchmarking multimodal AI systems (iVISPAR, SPLICE, GRASP)

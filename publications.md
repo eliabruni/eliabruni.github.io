@@ -73,7 +73,7 @@ G. Dagan, D. Hupkes and E. Bruni. [Co-evolution of language and agents in refere
 
 T.A. Unger and E. Bruni. [Incentivizing the Emergence of Grounded Discrete Communication Between General Agents](https://arxiv.org/abs/2001.01772). arXiv preprint, 2020
 
-D. Hupkes, V. Dankers, M. Mul and E. Bruni. [Compositionality Decomposed: How do Neural Networks Generalise?](https://arxiv.org/abs/1908.08351). JAIR / IJCAI, 2020
+D. Hupkes, V. Dankers, M. Mul and E. Bruni. [Compositionality Decomposed: How do Neural Networks Generalise?](https://arxiv.org/abs/1908.08351). JAIR / IJCAI, 2020. **2025 IJCAI-JAIR Best Paper Prize**
 
 ### 2019
 
