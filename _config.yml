@@ -7,6 +7,7 @@ description: "Professor of Natural Language Processing at the University of Osna
 # Navigation
 navbar-links:
   Publications: "publications"
+  Teaching: "teaching"
 
 # Author
 author:
