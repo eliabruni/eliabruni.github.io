@@ -19,9 +19,3 @@ My work lies at the intersection of natural language processing, computer vision
 - Consistency and interpretability of large language models
 - Grounded language understanding and physical reasoning
 
-## 03 -- Recognition
-
-Our paper [Compositionality Decomposed: How do Neural Networks Generalise?](https://arxiv.org/abs/1908.08351) (Hupkes, Dankers, Mul & Bruni) was awarded the **2025 IJCAI-JAIR Best Paper Prize**.
-
-Our paper [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857) (Bruni, Tran & Baroni) was awarded the **2017 IJCAI-JAIR Best Paper Prize**.
-
