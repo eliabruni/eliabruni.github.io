@@ -1,0 +1,33 @@
+---
+layout: base
+---
+
+<div class="container">
+  <div class="hero">
+    <div class="hero-photo">
+      <div class="photo-placeholder">
+        <span>Photo</span>
+      </div>
+    </div>
+    <div class="hero-intro">
+      <p class="hero-greeting">Hello, I'm</p>
+      <h1>{{ site.author.name }}</h1>
+      <p class="hero-role">{{ site.author.role }}<br>{{ site.author.affiliation }}</p>
+      <div class="hero-links">
+        <a href="mailto:{{ site.author.email }}" class="hero-link">Email</a>
+        <span class="hero-dot"></span>
+        <a href="{{ site.author.scholar }}" class="hero-link">Scholar</a>
+        <span class="hero-dot"></span>
+        <a href="https://github.com/{{ site.author.github }}" class="hero-link">GitHub</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section-divider"></div>
+
+<div class="container">
+  <div class="home-content">
+    {{ content }}
+  </div>
+</div>
