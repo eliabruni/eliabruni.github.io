@@ -11,11 +11,17 @@ Previously, I was a [Marie Sklodowska-Curie Fellow](https://ec.europa.eu/researc
 
 ## 02 -- Research
 
-My work lies at the intersection of natural language processing, machine learning, and cognitive science. Current research directions include:
+My work lies at the intersection of natural language processing, computer vision, machine learning, and vision-language models, with a growing interest in embodied AI. Current research directions include:
 
 - Probing and evaluating vision-language models for visual-spatial reasoning and intuitive physics
 - Benchmarking multimodal AI systems (iVISPAR, SPLICE, GRASP)
 - Emergent communication in situated and open-ended environments
 - Consistency and interpretability of large language models
 - Grounded language understanding and physical reasoning
+
+## 03 -- Recognition
+
+Our paper [Compositionality Decomposed: How do Neural Networks Generalise?](https://arxiv.org/abs/1908.08351) (Hupkes, Dankers, Mul & Bruni) was awarded the **2025 IJCAI-JAIR Best Paper Prize**.
+
+Our paper [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857) (Bruni, Tran & Baroni) was awarded the **2017 IJCAI-JAIR Best Paper Prize**.
 
