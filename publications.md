@@ -5,6 +5,10 @@ title: Publications
 
 See also: [Google Scholar](https://scholar.google.nl/citations?user=Oyb3NYgAAAAJ&hl=en)
 
+### Datasets
+
+[The MEN Test Collection]({{ site.baseurl }}/MEN/): 3,000 English word pairs with human-assigned relatedness judgments.
+
 ### 2025
 
 M. Ahmad, M. Ballout, R. Abu Ahmad and E. Bruni. [Transformer Tafsir at QIAS 2025 Shared Task: Hybrid Retrieval-Augmented Generation for Islamic Knowledge Question Answering](https://arxiv.org/abs/2509.23793). ANLP Shared Tasks, 2025
@@ -125,7 +129,7 @@ F. Celli, E. Bruni and B. Lepri. [Automatic Personality and Interaction Style Re
 
 A. Lazaridou, E. Bruni and M. Baroni. [Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](http://www.aclweb.org/anthology/P14-1132). ACL, 2014
 
-E. Bruni, N.K. Tran and M. Baroni. [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857). Journal of Artificial Intelligence Research 49: 1-47, 2014. **IJCAI-JAIR Best Paper Prize** &middot; [MEN dataset]({{ site.baseurl }}/MEN/)
+E. Bruni, N.K. Tran and M. Baroni. [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857). Journal of Artificial Intelligence Research 49: 1-47, 2014. **IJCAI-JAIR Best Paper Prize** &middot; Dataset: [The MEN Test Collection]({{ site.baseurl }}/MEN/)
 
 ### 2013
 
