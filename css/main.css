@@ -424,13 +424,15 @@ main {
   padding-left: 0;
 }
 
-.home-content li {
+.home-content li,
+.page-content li {
   padding-left: 1.25rem;
   position: relative;
   margin-bottom: 0.5rem;
 }
 
-.home-content li::before {
+.home-content li::before,
+.page-content li::before {
   content: '';
   position: absolute;
   left: 0;
@@ -500,6 +502,29 @@ main {
 
 .page-content a:hover {
   border-bottom-color: var(--accent);
+}
+
+.page-content ul {
+  font-size: 0.88rem;
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0.85rem;
+}
+
+.page-content blockquote {
+  border-left: 2px solid var(--accent);
+  padding-left: 1.25rem;
+  margin-bottom: 0.85rem;
+}
+
+.page-content blockquote p {
+  margin-bottom: 0;
+}
+
+.page-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  overflow-wrap: anywhere;
 }
 
 /* === Footer === */

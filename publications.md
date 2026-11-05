@@ -125,7 +125,7 @@ F. Celli, E. Bruni and B. Lepri. [Automatic Personality and Interaction Style Re
 
 A. Lazaridou, E. Bruni and M. Baroni. [Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](http://www.aclweb.org/anthology/P14-1132). ACL, 2014
 
-E. Bruni, N.K. Tran and M. Baroni. [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857). Journal of Artificial Intelligence Research 49: 1-47, 2014. **IJCAI-JAIR Best Paper Prize**
+E. Bruni, N.K. Tran and M. Baroni. [Multimodal Distributional Semantics](https://jair.org/index.php/jair/article/view/10857). Journal of Artificial Intelligence Research 49: 1-47, 2014. **IJCAI-JAIR Best Paper Prize** &middot; [MEN dataset]({{ site.baseurl }}/MEN/)
 
 ### 2013
 
