@@ -36,8 +36,8 @@ The first two columns in each file contain word pairs, followed by a column with
 
 Download the data set as a ZIP or TAR.GZ file:
 
-- [MEN.zip]({{ site.baseurl }}/resources/MEN.zip) (97 KB)
-- [MEN.tar.gz]({{ site.baseurl }}/resources/MEN.tar.gz) (90 KB)
+- [MEN.zip]({{ site.baseurl }}/resources/MEN.zip) (95 KB)
+- [MEN.tar.gz]({{ site.baseurl }}/resources/MEN.tar.gz) (87 KB)
 
 If you publish results based on this data set, please cite as:
 
