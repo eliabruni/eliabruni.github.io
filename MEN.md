@@ -5,7 +5,7 @@ description: "A word similarity test collection: 3,000 English word pairs with h
 permalink: /MEN/
 ---
 
-**Version:** 0.2 &middot; **Release date:** April 30, 2012 &middot; **Maintained by:** [Elia Bruni]({{ site.baseurl }}/) ([{{ site.author.email }}](mailto:{{ site.author.email }}))
+**Release date:** April 30, 2012 &middot; **Maintained by:** [Elia Bruni]({{ site.baseurl }}/) ([{{ site.author.email }}](mailto:{{ site.author.email }}))
 
 ### Overview
 
